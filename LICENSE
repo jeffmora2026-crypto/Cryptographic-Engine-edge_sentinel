@@ -1,5 +1,22 @@
-Propiedad Intelectual Protegida - Todos los Derechos Reservados
+Protected Intellectual Property - All Rights Reserved
 
-Copyright (c) 2026 Jeffrey Mora Espinoza 
-Queda estrictamente prohibido el uso comercial, la reventa, la sublicencia o la distribución con fines de lucro de este software y sus archivos asociados sin la autorización previa, expresa y por escrito del autor. 
-El software se proporciona "tal cual", sin garantía de ningún tipo, explícita o implícita. En ningún caso el autor será responsable de ninguna reclamación, daño u otra responsabilidad derivada del uso del software.
+Copyright (c) 2026 Jeffrey Mora Espinoza (edge_sentinel)
+
+1. LIMITED AUTHORIZATION FOR HACKATHON EVALUATION
+A temporary, non-exclusive, non-transferable authorization is granted solely to the official organizers, judges, and reviewers of the "Mathematics for systems security" hackathon on Devpost, for the exclusive purpose of inspecting, running, auditing, and evaluating the project during the official judging and results announcement process of the event.
+
+2. POST-EVENT CLOSURE AND GENERAL RESTRICTIONS
+Once the judging and results announcement process of the aforementioned hackathon concludes, or outside the strict scope of such evaluation, this software and its associated files are closed under full copyright reservation.
+
+3. EXPRESS PROHIBITIONS
+Without the prior, express, and written authorization of the author, the following actions are strictly prohibited:
+- Commercial use, financial exploitation, charging for services based on this code, resale, leasing, or distribution for profit.
+- Copying, cloning, extracting, modifying, adapting, reverse-engineering, or integrating into private, internal, corporate, governmental, military, or third-party systems outside the strict purpose of hackathon evaluation.
+- Sublicensing, assigning, or redistributing in whole or in part the source code, documentation, formulas, or associated files to third parties.
+- Publishing or reusing the code as the basis for closed or proprietary products by third parties.
+
+4. ABSENCE OF OPEN-SOURCE OR FREE SOFTWARE LICENSE
+This project is not provided under an open-source, copyleft, MIT, GPL, or any free-use license. Code visibility or submission to a hackathon platform does not imply a transfer of intellectual property rights or permission for exploitation outside what is stated in Section 1.
+
+5. DISCLAIMER OF WARRANTY ("AS-IS")
+The software is provided "as-is," without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, absolute security, or absence of defects. In no event shall the author be liable for any direct, indirect, incidental, special, or consequential damages, data loss, network failures, or claims arising from access to, evaluation of, or use of the software.
